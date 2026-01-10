@@ -1,7 +1,8 @@
 ## Заревич Михаил, группа 513-2. 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZarevichMikhail&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZarevichMikhail&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZarevichMikhail&theme=default)
+
+[![](https://raw.githubusercontent.com/ZarevichMikhail/ZarevichMikhail/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ZarevichMikhail/ZarevichMikhail/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ZarevichMikhail/ZarevichMikhail/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ZarevichMikhail/ZarevichMikhail/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ZarevichMikhail/ZarevichMikhail/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 Буду загружать сюда все учебные материалы по нашим предметам, а также свои рекомендации по ним чтобы следующим студентам было проще их сдавать. 
