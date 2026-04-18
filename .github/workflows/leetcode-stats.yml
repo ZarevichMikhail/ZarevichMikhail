@@ -1,0 +1,21 @@
+name: LeetCode Stats
+on:
+  schedule:
+    - cron: "0 0 * * *" # Обновление раз в сутки
+  workflow_dispatch: # Возможность запустить вручную
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Ancient-Wizard/leetcode-stats-action@master
+        with:
+          username: ZarevichMikhail
+          theme: light # Чтобы подходило под остальной дизайн
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update LeetCode Stats" || exit 0
+          git push
