@@ -16,3 +16,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           username: ZarevichMikhail
+          UTC_OFFSET: 7
