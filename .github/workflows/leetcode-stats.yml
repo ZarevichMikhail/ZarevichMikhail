@@ -8,10 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Ancient-Wizard/leetcode-stats-action@master
+      - uses: JeremyMeissner/leetcode-stats-action@master
         with:
           username: ZarevichMikhail
-          theme: light # Чтобы подходило под остальной дизайн
       - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
